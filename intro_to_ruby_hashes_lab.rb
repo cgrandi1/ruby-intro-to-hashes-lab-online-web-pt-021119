@@ -61,5 +61,5 @@ def monopoly_with_fourth_tier
   }
 }
 
-monopoly[:m]
+monopoly[:mortgage_value] = "$100"
 end
